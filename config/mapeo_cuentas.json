@@ -1,0 +1,122 @@
+{
+  "BH": {
+    "name": "No work",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "H": {
+    "name": "Vacation",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "F": {
+    "name": "Vacation",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "AV": {
+    "name": "Avianca",
+    "projects": {
+      "MS": "Avianca-Services-AM",
+      "PR": "Avianca-Services-Projects"
+    }
+  },
+  "T3": {
+    "name": "Eastern Airways",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "GO": {
+    "name": "GOL",
+    "projects": {}
+  },
+  "HO": {
+    "name": "Hong Kong Express",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "JM": {
+    "name": "Jambojet",
+    "projects": {
+      "MS": "Jambojet-Services-AM",
+      "PR": "Jambojet-Services-Projects"
+    }
+  },
+  "JT": {
+    "name": "JetSMART",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "NEW": {
+    "name": "Newshore (Interno)",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "PROD": {
+    "name": "Newshore (Product)",
+    "projects": {
+      "MS": "",
+      "PR": "",
+      "IN": "Engineering",
+      "PI": "Platform-Integrations"
+    }
+  },
+  "PU": {
+    "name": "Plus Ultra",
+    "projects": {
+      "MS": "PlusUltra- Services- AM",
+      "PR": "PlusUltra-Services-Projects",
+      "IBE": "PlusUltra-IBE-Setup"
+    }
+  },
+  "SA": {
+    "name": "SilverAirways",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "DT": {
+    "name": "TAAGAngola",
+    "projects": {
+      "MS": "TAAGAngola-Services-AM",
+      "PR": "TAAGAngola-Services-Projects"
+    }
+  },
+  "VU": {
+    "name": "Vueling",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "WJ": {
+    "name": "West Jet",
+    "projects": {
+      "MS": "",
+      "PR": ""
+    }
+  },
+  "XQ": {
+    "name": "SunExpress",
+    "projects": {
+      "MS": "",
+      "PR": "",
+      "IBE": "SunExpress-IBE-Setup"
+    }
+  }
+}
